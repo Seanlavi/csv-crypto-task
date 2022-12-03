@@ -16,4 +16,4 @@ start the app
 
 ## Tech Stack
 
-Python 3.10, pipenv, flask, bs4.BeautifulSoup, pandas
+Python 3.10, pipenv, csv, bs4.BeautifulSoup, pandas
